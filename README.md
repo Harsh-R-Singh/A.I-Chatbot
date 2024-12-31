@@ -35,7 +35,7 @@ This will start a local server, and you can access the chatbot by navigating to 
 Key Files
 
 	•	app.py: The main application file containing the Streamlit code.
-	•	chatbot.py: Contains the logic for interacting with the OpenAI API and processing user input.
+	•	Mybot.py: Contains the logic for interacting with the OpenAI API and processing user input.
 	•	requirements.txt: Lists all the dependencies required to run the application.
 
 Customization
