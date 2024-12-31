@@ -53,10 +53,6 @@ Contributing
 
 Feel free to fork this repository, make improvements, and submit a pull request. Any contributions are welcome!
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 Acknowledgments
 
 	•	Special thanks to the Streamlit and OpenAI teams for providing powerful tools that make building AI applications easier.
